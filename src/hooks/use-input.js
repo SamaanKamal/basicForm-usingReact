@@ -46,7 +46,6 @@ const useInput =(validateValue) =>{
         // setIsTouched(false);
     };
 
-
     return {
         value:inputState.value,
         valueIsValid,
